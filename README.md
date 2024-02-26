@@ -1,13 +1,13 @@
-#PHP Progress
+# PHP Progress
 > *Just take your time*
 
-#Levels
+# Levels
 | Level | Weeks | Start |
 | 0 | 3 | Jan |
 | 1 | 8 | Feb |
 | 2 | 7 | Apr |
 
-#Checklist
+# Checklist
 - Level 0
   - (Week 1)
   - (Week 2)
